@@ -1,8 +1,8 @@
 [![](https://jitpack.io/v/quiqueck/BCLib.svg)](https://jitpack.io/#quiqueck/BCLib)
 
-# BCLib
+# BCLib Reforged
 
-BCLib is a library mod for BetterX team mods, developed for Fabric, MC 1.19
+BCLib is a library mod for BetterX team mods, developed for Fabric And NeoForge, MC 1.20.4+
 
 ## Importing:
 
