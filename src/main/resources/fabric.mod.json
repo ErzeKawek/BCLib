@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "id": "bclib",
   "version": "3.30.2",
-  "name": "BCLib",
-  "description": "A library for BetterX team mods",
+  "name": "BCLib (Reforged)",
+  "description": "A forked library for BetterX team mods",
   "authors": [
     "Quiqueck",
     "paulevs",
